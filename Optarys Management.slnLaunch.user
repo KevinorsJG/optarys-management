@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "App Desktop",
+    "Projects": [
+      {
+        "Path": "src\\Front\\UI\\Optarys.Management.Desktop\\Optarys.Management.Desktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Api Backend",
+    "Projects": [
+      {
+        "Path": "src\\Backend\\Optarys.Management.API\\Optarys.Management.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -9,6 +9,8 @@ coverage/
 .vs/
 .idea/
 *.user
+# Shared solution startup profiles
+!/Optarys Management.slnLaunch.user
 *.suo
 *.userosscache
 *.sln.docstates
