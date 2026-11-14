@@ -1,0 +1,11 @@
+@Optarys.Managemente.API_HostAddress = http://localhost:5109
+
+GET {{Optarys.Managemente.API_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Optarys.Managemente.API_HostAddress}}/todos/1
+Accept: application/json
+
+###

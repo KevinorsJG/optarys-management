@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>Optarys</RootNamespace>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net10.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<PublishAot>true</PublishAot>
+		<IsAotCompatible>true</IsAotCompatible>
+		<BuiltInComInteropSupport>false</BuiltInComInteropSupport>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Avalonia.Desktop" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Optarys.Management.UI\Optarys.Management.UI.csproj" />
+	</ItemGroup>
+</Project>

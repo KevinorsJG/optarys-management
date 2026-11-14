@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/App/" />
+  <Folder Name="/App/Core/">
+    <Project Path="src/Front/Core/Optarys.Management.App.Core/Optarys.Management.App.Core.csproj" Id="a1b59c45-4614-4f03-98ce-a7adc4bd332f" />
+    <Project Path="src/Front/Core/Optarys.Management.App.Infrastructure/Optarys.Management.App.Infrastructure.csproj" Id="e9d29a21-1fdf-4ffc-83ff-8143e8f68089" />
+  </Folder>
+  <Folder Name="/App/UI/">
+    <Project Path="src/Front/UI/Optarys.Management.Android/Optarys.Management.Android.csproj" />
+    <Project Path="src/Front/UI/Optarys.Management.Desktop/Optarys.Management.Desktop.csproj" />
+    <Project Path="src/Front/UI/Optarys.Management.iOS/Optarys.Management.iOS.csproj" />
+    <Project Path="src/Front/UI/Optarys.Management.UI/Optarys.Management.UI.csproj" />
+  </Folder>
+  <Folder Name="/Backend/">
+    <Project Path="src/Backend/Optarys.Management.API/Optarys.Management.API.csproj" />
+  </Folder>
+</Solution>

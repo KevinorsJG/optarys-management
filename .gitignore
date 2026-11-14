@@ -1,0 +1,32 @@
+# Build output
+**/bin/
+**/obj/
+artifacts/
+TestResults/
+coverage/
+
+# IDE and local developer state
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.codex/
+.agents/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+!.env.template
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+*.pfx
+*.p12
+*.key
+.aws/
+
+# OS files
+.DS_Store
+Thumbs.db
