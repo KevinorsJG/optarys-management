@@ -64,6 +64,12 @@ feat(api)!: change customer identifier format
 BREAKING CHANGE: Clients must send UUID customer identifiers.
 ```
 
+## Changelog
+
+- Actualizar `CHANGELOG.md` únicamente cuando el usuario lo solicite explícitamente. No modificarlo automáticamente al implementar cambios, crear commits o preparar publicaciones.
+- Cuando se solicite, registrar cambios reales en español bajo `Sin publicar`, agrupados por fecha de registro (`AAAA-MM-DD`, zona horaria `America/Managua`) y luego por categoría, con las fechas más recientes primero. No duplicar entradas ni presentar planes como funcionalidades implementadas.
+- Conservar las fechas de las entradas existentes. Las fechas de registro no son fechas de lanzamiento; crear secciones de versión con fecha de lanzamiento solo al documentar una publicación confirmada, sin inventar versiones ni fechas.
+
 ## Verificación y entrega
 
 - Compilar los proyectos afectados cuando cambie código y ejecutar las pruebas pertinentes disponibles.
