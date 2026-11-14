@@ -1,4 +1,4 @@
-﻿namespace Optarys.Management.App.Infrastructure
+﻿namespace Management.App.Core
 {
     public class Class1
     {

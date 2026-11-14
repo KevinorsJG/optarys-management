@@ -2,7 +2,7 @@
 using Android.Content.PM;
 using Avalonia.Android;
 
-namespace Optarys.Android;
+namespace Management.App.UI;
 
 [Activity(
     Label = "Optarys Management",

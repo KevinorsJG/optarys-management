@@ -3,7 +3,7 @@ using Android.Runtime;
 using Avalonia;
 using Avalonia.Android;
 
-namespace Optarys.Android
+namespace Management.App.UI
 {
     [Application]
     public class Application : AvaloniaAndroidApplication<App>

@@ -1,7 +1,7 @@
 ﻿using System;
 using Avalonia;
 
-namespace Optarys;
+namespace Management.App.UI;
 
 sealed class Program
 {

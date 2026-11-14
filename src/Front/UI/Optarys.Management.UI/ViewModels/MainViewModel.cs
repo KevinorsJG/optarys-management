@@ -1,4 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
+using Management.App.UI.ViewModels;
 
 namespace Optarys.ViewModels;
 

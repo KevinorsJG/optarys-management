@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace Optarys.ViewModels;
+namespace Management.App.UI.ViewModels;
 
 public abstract class ViewModelBase : ObservableObject
 {

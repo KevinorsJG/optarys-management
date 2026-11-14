@@ -4,7 +4,7 @@ using Avalonia.Markup.Xaml;
 using Optarys.ViewModels;
 using Optarys.Views;
 
-namespace Optarys;
+namespace Management.App.UI;
 
 public partial class App : Application
 {

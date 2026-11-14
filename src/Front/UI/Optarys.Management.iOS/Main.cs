@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace Optarys;
+namespace Management.App.UI;
 
 public class Application
 {
