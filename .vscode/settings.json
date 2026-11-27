@@ -1,0 +1,9 @@
+{
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.axaml": "${capture}.axaml.cs",
+    "*.cs": "${capture}.*.cs"
+  },
+  "vssolution.itemNesting": true,
+  "vssolution.solutionExplorerIcons": "mix"
+}
